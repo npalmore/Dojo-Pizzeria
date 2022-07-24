@@ -12,9 +12,3 @@ var p2 = pizzaOven("hand tossed", "marinara", ["mozzarella", "feta"], ["mushroom
 var p3 = pizzaOven("thin", "pesto", ["feta"], ["spinach"]);
 var p4 = pizzaOven("New York style", "traditional", ["mozzarella"], ["pepperoni"]);
 console.log(p1, p2, p3, p4);
-
-
-var crustArr = ["deep dish", "hand tossed", "thin", "Detroit style", "New York style"];
-var sauceArr = ["traditional", "marinara", "pesto", "white"];
-var cheeseArr = ["mozzarella", "feta", "ricotta", "American", "provolone"];
-var toppingsArr = ["pepperoni", "sausage", "pineapple", "mushrooms", "peppers", "onions", "olives", "spinach", "chicken"];
